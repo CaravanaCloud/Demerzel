@@ -2,6 +2,8 @@
 
 Let's Automate:
 * Resource Owner Attribuiton (attribution / a9n)
-** Custom Config Rule to detect the missing attribution (In Progress)
-** SSM Automation Document to remediate by querying cloudtrail with athena (Next)
-** CloudFormaton template to create cloudtrail and athena resources (Later) 
+
+Features:
+* Custom Config Rule to detect the missing attribution (In Progress)
+* SSM Automation Document to remediate by querying cloudtrail with athena (Next)
+* CloudFormaton template to create cloudtrail and athena resources (Later) 
