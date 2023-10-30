@@ -1,0 +1,13 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "a9n",
+    "Description": "a9n",
+    "SourceRuntime": "python3.11-lib",
+    "CodeKey": "a9nus-west-2.zip",
+    "InputParameters": "{}",
+    "OptionalParameters": "{}",
+    "SourcePeriodic": "Twelve_Hours"
+  },
+  "Tags": "[]"
+}
