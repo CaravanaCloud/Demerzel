@@ -5,7 +5,7 @@
     "Description": "a9n",
     "SourceRuntime": "python3.11-lib",
     "CodeKey": "a9nus-west-2.zip",
-    "InputParameters": "{\"ExecutionRoleName\": \"a9n-rdkLambdaRole-NKKL1RhEaTZy_a9n_role\"}",
+    "InputParameters": "{}",
     "OptionalParameters": "{}",
     "SourcePeriodic": "Twelve_Hours"
   },
